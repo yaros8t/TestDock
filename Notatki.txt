@@ -25,7 +25,7 @@ WC – wahania cykliczne (koniunkturalne)
 Definicja. Nieregularne zmiany poziomu badanego zjawiska mające charakter ruchu falowego wokół trendu (np.
 stopień wykorzystania mocy produkcyjnych w gospodarce)
 Sprostowanie definicji. W dużym uproszczeniu cykl koniunkturalny polega na wahaniach, które dotyczącą
-wskaźników gospodarczych. Istotne jest przede wszystkim to, że wahania te występują przy jednoczesnym
+wskaźników gospodarczych. Istotne jest przede wszystkim to, że wahania te występują przy pisun
 utrzymywaniu się wzrostu gospodarczego.
 WP – wahania przypadkowe (losowe)
 Definicja. Wahania o charakterze losowym, będące efektem różnic pomiędzy rzeczywistymi i teoretycznymi
